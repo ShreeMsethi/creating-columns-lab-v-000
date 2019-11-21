@@ -47,11 +47,11 @@ img:hover {
 }
 
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
-.coloums{
-  
+.coloum{
+  display:;
 }
 
-..small{
+.small{
   
 }
 
@@ -62,9 +62,6 @@ img:hover {
 .large{
   
 }
-}
-}
-}
-}
+
 
 /* create your tile classes! we recommend .small .med .large */
